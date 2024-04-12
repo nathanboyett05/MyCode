@@ -1,0 +1,33 @@
+nav {
+    background-color: rgb(0, 7, 16); 
+    padding: 10px 20px;
+  }
+  
+  .nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px; 
+  }
+  
+  .nav-links li {
+    display: inline-block;
+  }
+  
+  .nav-links a {
+    color: white; 
+    text-decoration: none;
+  }
+  
+  .name-tag {
+   // background-color: rgb(148, 9, 9);
+    color: white; 
+    padding: 5px;
+    border-radius: 5px;
+  }
+  

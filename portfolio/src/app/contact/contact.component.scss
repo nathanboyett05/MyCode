@@ -1,0 +1,28 @@
+
+.dark {
+    background-color: rgb(0, 7, 16);
+}
+p {
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+    line-height: 1.5;
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    justify-content: center;
+}
+
+.contactText {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+    line-height: 1.5;
+}
